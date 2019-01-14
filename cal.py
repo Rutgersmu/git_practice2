@@ -8,3 +8,7 @@ def two_minus(a, b):
 
 def three_minus(a, b, c):
     return a - b - c
+
+def two_quotient(a, b):
+    return a // b
+
